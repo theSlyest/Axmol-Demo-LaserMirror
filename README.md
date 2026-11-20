@@ -12,6 +12,7 @@ A small laser puzzle built with [Axmol Engine](https://axmol.dev/) and C++, writ
 - You can use at most **5 mirrors**. The boxes at the top show the mirrors used, the mirrors remaining and your best result.
 - Walls stop the beam, and so does the target. The puzzle is solved when the beam reaches the target.
 - The fewest mirrors you have used to solve it is saved as your best result. Press **Play again** to restart.
+- A short help text at the foot of the screen recalls how to play.
 
 There are no image assets: everything is drawn with `DrawNode`.
 
